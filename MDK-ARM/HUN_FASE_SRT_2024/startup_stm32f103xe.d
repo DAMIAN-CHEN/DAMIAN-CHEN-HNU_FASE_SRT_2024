@@ -1,1 +1,0 @@
-hun_fase_srt_2024\startup_stm32f103xe.o: startup_stm32f103xe.s
